@@ -17,7 +17,7 @@ This is on purpose: We want you to explore and play with the different options o
 ![Configure Build Tasks](/BuildConfiguration/images/ConfigureBuildTasks.png)
 
 ## Add Build Tasks to publish Artifacts
-![Artifacts](/BuildConfiguration/images/PublishArtefacts.jpg)
+![Artifacts](/BuildConfiguration/images/PublishArtefacts.png)
 
 ## Add build task to publish Arm Templates
 * Use the "Publish Artifacts" Task
