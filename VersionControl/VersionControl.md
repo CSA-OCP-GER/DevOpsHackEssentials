@@ -12,7 +12,7 @@ This is on purpose: We want you to explore and play with the different options o
 ![Modify your repo to require a pull request to merge code into your master branch](/VersionControl/images/BranchPolicies.png)
 
 ## Modify your repo to require a Work Item linked to a pull request ##
-![Modify your repo to require a Work Item linked to a pull request](/VersionControl/images/RequireWorkItemLinked.pngG)
+![Modify your repo to require a Work Item linked to a pull request](/VersionControl/images/RequireWorkItemLinked.png)
 
 ## Configure your repo to require at least one of your colleagues as approver ##
 ![Configure your repo to require at least one of your colleagues as approver](/VersionControl/images/RequireOneReviewer.png)
