@@ -4,7 +4,7 @@ This is on purpose: We want you to explore and play with the different options o
 
 ## Use Analytics in ApplicationInsights in the Azure Portal
 
-![Use Analytics in ApplicationInsights in the Azure Portal](/ApplicationMonitoring/LogAnalytics.png)
+![Use Analytics in ApplicationInsights in the Azure Portal](/ApplicationMonitoring/images/LogAnalytics.png)
 
 https://docs.microsoft.com/en-us/azure/log-analytics/query-language/get-started-analytics-portal?toc=/azure/azure-monitor/toc.json
 
