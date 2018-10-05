@@ -106,10 +106,24 @@ After this challenge you'll be able to deploy the sample application to an envir
 |-|-|-|
 |1|Add a 3rd deployment slot called "Test" by modifiying your ARM template accordingly.|50|
 
+# DevOps Challenge \#5 - Monitor your application #
+In this challenge, you will leran how to use ApplicationInsights to monitor your application.
+If you need help check out the [:blue_book: Application Monitoring](/ApplicationMonitoring/ApplicationMonitoring.md).
 
+## What you get ##
+ApplicationInsights is a Monitoring tool that is integrated in your application.
+After this challenge you will have learned about how to monitor your application using ApplicationInsights in the Azure Portal. You will have learned how to add custom telemetry to ApplicationInsights.
 
-# DevOps Challenge \#5 - Work Management and process customization #
-In this challenge, you will configure VSTS to trace and plan your work.
+## Achievments ##
+ | # | Achievment | Maximum score
+ |-|-|-|
+ |1.| Go to the Azure portal and explore telemtry in your ApplicationInsight instance | 2 |
+ |2.| Go to live metrics, browse your website and explore the genreated data | 2 |
+ |3.| Go to ServiceMap and explore the available data | 3 |
+ |4.| Collect telemtry about search time in SearchController.cs using custom events | 5 |
+
+# DevOps Challenge \#6 - Work Management and process customization #
+In this challenge, you will configure Azure DevOps to trace and plan your work.
 If you need help check out the [:blue_book: Process Customization Hints](/ProcessCustomization/ProcessCustomization.md) and [:blue_book: WorkItem Management Hints](/WorkItemManagement/WorkManagement.md) plus the [:blue_book: Dashboard customization Hints](/Dashboard/Dashboard.md).
 ## What you get ##
 Azure DevOps brings Work Management in a default way and very often it is not necessary to do customization. After this challenge you will have learned about how to customize some areas of work management in Azure DevOps. You'll be creating a new process template which could be shared across projects. This new templates will include new hierachy levels of work. You'll also modify some of the display options of work and learn about linkning work items and using the dashboard.
@@ -142,7 +156,7 @@ Congrats! You've passed the essential challenges. Now take a step back, relax an
 Take your time to explore Azure DevOps and all the other options available - whether it's Wiki or the Test Hub. If you have some time left, here are even more challenges.
 
 
-# DevOps Bonus Challenge #6 - Automated Testing #
+# DevOps Bonus Challenge #7 - Automated Testing #
 In this challenge, you will integrate automated tests into your application.
 If you need help check out the [:blue_book: Auto Test Hints](/AutoTest/AutoTest.md).
 ## What you get ##
@@ -160,7 +174,7 @@ After this challenge you'll be running a test on your newly deployed application
 
 
 
-# DevOps Superbonus Challenge 7 - Containers #
+# DevOps Superbonus Challenge 8 - Containers #
 In this challenge, you will create a pipeline for container deployment. If you need help check out the [:blue_book: Container Hints](/Containers/Containers.md). 
 
 ## Achievements ##
